@@ -1,4 +1,6 @@
 matrices
 ========
 
-Implements a few matrix algorithms
+Implements a few matrix algorithms.
+
+
